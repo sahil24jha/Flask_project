@@ -4,5 +4,11 @@
         "email": "sahil24jha@gmail.com",
         "password": "Asdfgh!123",
         "confirmPassword": "Asdfgh!123"
+    },
+    {
+        "username": "sahil24jha_new",
+        "email": "xyz@gmail.com",
+        "password": "Asdfgh!123",
+        "confirmPassword": "Asdfgh!123"
     }
 ]
