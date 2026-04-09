@@ -1,0 +1,9 @@
+project_readme.docx
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+*.tfvars
+*.log
+terraform.tfvars.json
+terraform_user_documentation.docx
+.terraform.lock.hcl
