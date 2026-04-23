@@ -10,5 +10,23 @@
         "email": "xyz@gmail.com",
         "password": "Asdfgh!123",
         "confirmPassword": "Asdfgh!123"
+    },
+    {
+        "username": "sahil",
+        "email": "sahil24jha@gmail.com",
+        "password": "Sahil@123",
+        "confirmPassword": "Sahil@123"
+    },
+    {
+        "username": "vans",
+        "email": "sahil24jha@gmail.com",
+        "password": "Asxz@123",
+        "confirmPassword": "Asxz@123"
+    },
+    {
+        "username": "vans",
+        "email": "sahil24jha@gmail.com",
+        "password": "Asxz@123",
+        "confirmPassword": "Asxz@123"
     }
 ]
